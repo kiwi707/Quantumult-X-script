@@ -3,7 +3,7 @@
 
 Quantumult X:
 ^http:\/\/certificate\.yiyongcad\.com\/api\/v4\/virtualactregister url script-response-body https://raw.githubusercontent.com/kiwi707/Quantumult-X-script/master/znzj.js
-下载链接：https://apps.apple.com/cn/app/%E6%99%BA%E8%83%BD%E8%AF%81%E4%BB%B6%E7%85%A7%E7%9B%B8%E6%9C%BA-%E6%9C%80%E7%BE%8E%E8%AF%81%E4%BB%B6%E7%85%A7%E6%8B%8D%E7%85%A7%E8%BD%AF%E4%BB%B6/id1474736468
+App下载链接：https://apps.apple.com/cn/app/%E6%99%BA%E8%83%BD%E8%AF%81%E4%BB%B6%E7%85%A7%E7%9B%B8%E6%9C%BA-%E6%9C%80%E7%BE%8E%E8%AF%81%E4%BB%B6%E7%85%A7%E6%8B%8D%E7%85%A7%E8%BD%AF%E4%BB%B6/id1474736468
 Tg频道：https://t.me/jmkji
 MITM = certificate.yiyongcad.com
 */
