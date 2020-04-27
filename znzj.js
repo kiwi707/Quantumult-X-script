@@ -4,7 +4,7 @@
 Quantumult X:
 ^http:\/\/certificate\.yiyongcad\.com\/api\/v4\/virtualactregister url script-response-body https://raw.githubusercontent.com/kiwi707/Quantumult-X-script/master/znzj.js
 
-
+Tg频道：https://t.me/jmkji
 MITM = certificate.yiyongcad.com
 */
 var obj = JSON.parse($response.body);
