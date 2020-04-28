@@ -8,18 +8,6 @@ MITM=pay.maoqilai.com
 */
 var obj = JSON.parse($response.body);
  obj={
-  "left_year_count" : 64,
-  "head_img_url" : "http://assets.maoqilai.com/mall/assets/img/square_logo_a417627.png",
-  "errmsg" : "success",
-  "sex" : 0,
-  "province" : "",
-  "is_user_new_invited" : 0,
-  "user_id" : 238566,
-  "left_forever_count" : 57,
-  "maobi_num" : 1,
-  "code" : 0,
-  "city" : "",
-  "language" : "",
   "paid_service_list" : [
     {
       "service_id" : 7,
