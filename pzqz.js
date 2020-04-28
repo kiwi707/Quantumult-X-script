@@ -16,11 +16,6 @@ var obj = JSON.parse($response.body);
       "service_name" : "连续包月月度VIP会员"
     }
   ],
-  "tel" : "13255809882",
-  "nickname" : "",
-  "country" : "",
-  "access_token" : "f60220f84fd04f7ea1f290014046c7e3",
-  "is_forever" : false
 };
 $done({body: JSON.stringify(obj)});
 //
