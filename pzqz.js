@@ -1,5 +1,4 @@
 /*
-初次使用先关闭Quantumult X，运行拍照取字app，并使用自己的手机号注册，然后将此脚本的第32行中的电话号码改为自己的手机号，启动Quantumult X，进入app即可解锁VIP和存储空间
 Quantumult X:
 #拍照取字unlock Vip
 ^http:\/\/pay\.maoqilai\.com\/get_user_info url script-response-body pzqz.js
