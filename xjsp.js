@@ -4,7 +4,7 @@ app download link : https://is.gd/3kW1id
 
 QX:
 # 香蕉视频VIP
-^https?:\/\/.*\.(fuli|xiang(jiao|xiang))apps\.com\/(ucp\/index|index|getGlobalData|.+\/reqplay\/) url script-response-body xjsp.js
+^https?:\/\/.*\.(fuli|xiang(jiao|xiang))apps\.com\/(ucp\/index|index|getGlobalData|.+\/reqplay\/) url script-response-body https://raw.githubusercontent.com/kiwi707/Quantumult-X-script/master/xjsp.js
 
 Surge & QX MITM = ios.fuliapps.com, apple.fuliapps.com, ios.xiangjiaoapps.com, apple.xiangjiaoapps.com, *.xiangxiangapps.com
 */
