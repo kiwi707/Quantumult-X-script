@@ -3,8 +3,7 @@
 下载地址：https://is.gd/PhvALt
 
 QuanX :  [rewrite_local]
-http:\/\/api\.tbrapi\.com:8080\/api\.php\/api\/user\/userinfo url script-response-body tangtoutiao.js
-
+http:\/\/api\.tbrapi\.com:8080\/api\.php\/api\/user\/userinfo url script-response-body https://raw.githubusercontent.com/kiwi707/Quantumult-X-script/master/tangtoutiao.js
 QX & Q & Surge Mitm = api.tbrapi.com:8080,
 */
 var obj = JSON.parse($response.body);
