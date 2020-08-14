@@ -1,3 +1,12 @@
+/*
+汤头条解锁会员、观看次数
+下载地址：https://is.gd/PhvALt
+
+QuanX :  [rewrite_local]
+http:\/\/api\.tbrapi\.com:8080\/api\.php\/api\/user\/userinfo url script-response-body https://raw.githubusercontent.com/kiwi707/Quantumult-X-script/master/tangtoutiao.js
+
+QX & Q & Surge Mitm = api.tbrapi.com:8080,
+*/
 var obj = JSON.parse($response.body);
 obj = {
   "errcode": 0,
